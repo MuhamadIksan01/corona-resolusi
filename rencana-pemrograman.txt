@@ -1,0 +1,7 @@
+rencanca belajar pemrograman
+- Javascript
+ * Lanjutan
+ * Berorientasi objek
+- PHP framework
+- CSS
+- HTML
