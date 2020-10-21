@@ -2,6 +2,9 @@ rencanca belajar pemrograman
 - Javascript
  * Lanjutan
  * Berorientasi objek
+  ^ Membuat aplikasi ubah warna
+  ^ Membuat game suit jawa
 - PHP framework
+ * Laravel
 - CSS
 - HTML
