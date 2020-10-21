@@ -4,6 +4,7 @@ rencanca belajar pemrograman
  * Berorientasi objek
   ^ Menghitung Angkot
   ^ Membuat Game Suit Jawa
+- Git dan Github
 - PHP framework
  * Laravel
 - CSS
