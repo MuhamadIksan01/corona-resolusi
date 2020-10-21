@@ -2,6 +2,9 @@ rencanca belajar pemrograman
 - Javascript
  * Lanjutan
  * Berorientasi objek
+  ^ Menghitung Angkot
+  ^ Membuat Game Suit Jawa
 - PHP framework
+ * Laravel
 - CSS
 - HTML
